@@ -36,4 +36,5 @@ Try except  או בתוך לולאות (if while)
 שלב 2-ארכיטקטורה:
 
 סעיף 1:מצורף באיור
+
 ![סעיף 3](https://github.com/tomermro1/Zvuvun/blob/main/q33.jpg?raw=true)
