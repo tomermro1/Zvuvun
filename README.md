@@ -39,7 +39,7 @@ Try except  או בתוך לולאות (if while)
 שלב 2-ארכיטקטורה:
 סעיף 4:
 
-![סעיף 4:](https://github.com/tomermro1/Zvuvun/assets/104527765/b5aa2a4d-092a-4fab-9855-5f7584199c1e)
+![image](https://github.com/tomermro1/Zvuvun/assets/104527765/b5aa2a4d-092a-4fab-9855-5f7584199c1e)
 
 סעיף 1:מצורף באיור
 
