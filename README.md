@@ -37,6 +37,8 @@ Try except  או בתוך לולאות (if while)
 כי בעולם מושלם כוח הכבידה יכול להשתנות.
 
 שלב 2-ארכיטקטורה:
+סעיף 4:
+![image](https://github.com/tomermro1/Zvuvun/assets/104527765/b5aa2a4d-092a-4fab-9855-5f7584199c1e)
 
 סעיף 1:מצורף באיור
 
